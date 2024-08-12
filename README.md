@@ -1,0 +1,1 @@
+# Instala-o-do-Windows-11-sem-Requisitos-de-TPM-2.0
